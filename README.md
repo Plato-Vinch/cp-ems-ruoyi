@@ -38,7 +38,7 @@ https://cp-ems.szcloudpulse.com
 9. 数据看板  
 
 #### 本地运行
-https://www.szcloudpulse.com/run-document.html
+[cp-ems](https://cp-ems.szcloudpulse.com)
 
 #### 界面截图
 <img src='docs/看板.png' width='600'><br>
