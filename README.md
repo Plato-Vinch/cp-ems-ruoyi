@@ -5,14 +5,14 @@ cp-ems-ruoyi 是一款基于 Ruoyi 框架开发的开源能源管理系统（EMS
 该系统为企业和个人提供能耗监控、定额管理和运维管理等功能，支持实时数据采集和分析，帮助用户优化能耗，提升管理效率。  
 
 #### 项目网站
-https://cp-ems.szcloudpulse.com
+https://cp-ems.cn
 
 #### 软件架构
 前端框架：vue2 + element-ui + ECharts        
 后端框架：SpringBoot + Mysql + TDengine + Redis + RabbitMq + MQTT 
 
 #### 在线体验
-演示地址： https://www.szcloudpulse.com:86   
+演示地址： http://110.42.222.62:86  
 体验账号： EMSUser\123456
 沟通请加底部微信
 
@@ -38,7 +38,7 @@ https://cp-ems.szcloudpulse.com
 9. 数据看板  
 
 #### 本地运行
-[cp-ems](https://cp-ems.szcloudpulse.com)
+[cp-ems](https://cp-ems.cn/docs.html)
 
 #### 界面截图
 <img src='docs/看板.png' width='600'><br>
